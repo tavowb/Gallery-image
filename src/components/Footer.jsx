@@ -69,7 +69,7 @@ const Footer = () => {
                 <li>
                   <div className=" mb-2 d-flex align-items-start">
                     <BsPhoneFill className=""></BsPhoneFill>
-                    +57 3053058528
+                    +57 3124341827
                   </div>
                 </li>
               </ul>
