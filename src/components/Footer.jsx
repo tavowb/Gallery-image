@@ -6,7 +6,7 @@ import { MdMail } from "react-icons/md";
 
 const Footer = () => {
   return (
-    <footer className=" bg-primary text-white">
+    <footer className=" footer bg-primary text-white">
       <div class="container">
         <div class="row ">
           <div class="col-xl-4 offset-xl-1 col-lg-2 col-md-6">
@@ -61,13 +61,13 @@ const Footer = () => {
               <h4>Phone</h4>
               <ul class="list-unstyled">
                 <li>
-                  <div className=" mb-2 d-flex align-items-start">
+                  <div className=" mb-2 ps-4 d-flex align-items-start">
                     <BsPhoneFill className=""></BsPhoneFill>
                     +57 3053058528
                   </div>
                 </li>
                 <li>
-                  <div className=" mb-2 d-flex align-items-start">
+                  <div className="mb-2 ps-4 d-flex align-items-start">
                     <BsPhoneFill className=""></BsPhoneFill>
                     +57 3124341827
                   </div>
